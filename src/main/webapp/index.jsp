@@ -18,7 +18,7 @@
 
         <h2>jQueryUI - Effects</h2><a href="effects/effects-index.jsp"><h4>EFFECTS</h4></a>
         <h2>jQueryUI - Interactions</h2><a href="interactions/interactions-index.jsp"><h4>INTERACTIONS</h4></a>
-        <h2>jQueryUI - XXXX</h2><a href="interactions/interactions-index.jsp"><h4>INTERACTIONS</h4></a>        
+        <h2>jQueryUI - Widgets</h2><a href="widgets/widgets-index.jsp"><h4>WIDGETS</h4></a>        
         
     </body>
 </html>
